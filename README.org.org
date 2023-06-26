@@ -1,0 +1,5 @@
+# Created 2023-06-26 Mon 07:57
+#+title: 
+* Purpose <2023-06-26 Mon>
+This is just a github repo where I can put org documents, that describe topics I am interested in. I am not a writer.
+I am a programmer as a hobby and if there are any suggestions and or corrections, please make an issue.
